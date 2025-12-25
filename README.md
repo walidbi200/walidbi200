@@ -1,6 +1,6 @@
 ## Hi there, I'm Walid 👋
 
-I am a Computer Science student from Morocco, currently studying in Russia. My primary focus is on **Cybersecurity** and **Artificial Intelligence development**.
+I am a Computer Science student from Morocco,My primary focus is on **Cybersecurity** and **Networking**.
 
 I have a background in university CS studies (5 semesters) and I am currently preparing for future opportunities in Germany.
 
@@ -19,4 +19,4 @@ I focus on building practical tools driven by AI.
 ### 📫 Connect With Me
 * **LinkedIn:** https://www.linkedin.com/in/walidbichri/
 * **Email:** Walidbichri01@gmail.com
-* **Portfolio:** smartgiftfinder.xyz
+* **Portfolio:** https://www.smartgiftfinder.xyz/
