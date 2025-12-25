@@ -1,16 +1,22 @@
-## Hi there 👋
+## Hi there, I'm Walid 👋
 
-<!--
-**walidbi200/walidbi200** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Computer Science student from Morocco, currently studying in Russia. My primary focus is on **Cybersecurity** and **Artificial Intelligence development**.
 
-Here are some ideas to get you started:
+I have a background in university CS studies (5 semesters) and I am currently preparing for future opportunities in Germany.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 What I'm Working On
+I focus on building practical tools driven by AI.
+
+* **[Smart Gift Finder](https://smartgiftfinder.xyz)**: An AI-powered recommendation engine that helps users find the perfect gift.
+    * *Focus:* Web Development, AI Integration, User Experience.
+* **Cybersecurity Labs**: Currently upskilling in network security and penetration testing.
+
+### 🛠️ Tech Stack & Tools
+* **Languages:** Python, C
+* **Interests:** Ethical Hacking, AI/ML, Web Development
+* **Languages Spoken:** English(C1), French(B1), Arabic, German(A2/B1)
+
+### 📫 Connect With Me
+* **LinkedIn:** https://www.linkedin.com/in/walidbichri/
+* **Email:** Walidbichri01@gmail.com
+* **Portfolio:** smartgiftfinder.xyz
